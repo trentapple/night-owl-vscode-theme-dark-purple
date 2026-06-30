@@ -8,7 +8,7 @@ All notable changes to the "night-owl" extension are be documented in this file.
 - enable semantic highlighting with explicit semantic token colors
 - add current VS Code theme color keys for quick input, menus, sticky scroll, notebooks, testing, and terminal command decorations
 
-# "2.0.1
+## "2.0.1"
 
 - update readme
 - update branch name
